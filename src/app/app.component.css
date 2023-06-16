@@ -1,0 +1,30 @@
+.hidden{
+    display: none;
+}
+
+.spacing{
+    margin-top: 100px;
+}
+
+mat-drawer-container{
+    height: 100%;
+}
+
+mat-drawer{
+    width: 250px;
+    background-color: antiquewhite;
+}
+
+mat-drawer, mat-drawer-container{
+    padding: 20px;
+}
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css");
+
+mat-card{
+    max-width: 400px;
+}
+
+.mattooltip{
+    margin: 200px;
+}
